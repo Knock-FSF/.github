@@ -1,6 +1,21 @@
 ## 👋 Hi there
 
-This is Knock FSF
+This is Knock FSF.
+
+It's a team, which we hope, moving forward with our strength and determinations.
+
+If you'd like to help us, do please feel free to contact, putting up issues or pulling requests.
+
+*ps: 咱团队（目前）都是中国人，可以放心用汉语。*
+
+## Founders (Alphabetical)
+
+ - [Jack](https://github.com/imJack6)
+
+ - [William](https://github.com/Wilhelm-Lee)
+
+## Projects (Alphabetical)
+1. [Carbonyl](https://github.com/Knock-FSF/Carbonyl)
 
 <!--
 
