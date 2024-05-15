@@ -1,6 +1,8 @@
 ## 👋 Hi there
 
-This is Knock FSF.
+Welcome!
+
+This is KNOCK Free Software Foundation.
 
 It's a team, which we hope, moving forward with our strength and determinations.
 
@@ -16,6 +18,7 @@ If you'd like to help us, do please feel free to contact, putting up issues or p
 
 ## Projects (Alphabetical)
 1. [Carbonyl](https://github.com/Knock-FSF/Carbonyl)
+2. [Compound](https://github.com/Wilhelm-Lee/Compound)
 
 <!--
 
