@@ -1,10 +1,16 @@
 ## 👋 Hi there
 
-Welcome!
+Greetings!
 
 This is KNOCK Free Software Foundation.
 
-It's a team, which we hope, moving forward with our strength and determinations.
+Our philosophy is to create software that are beneficial for people, regardless the nationalities.
+
+We make our software that we use, and it's the proud for us to hear from your feedback.
+
+We iterates our projects with the contributions from you.  It's a great pleasure to work with people who holds similar ideal and perspective.
+
+And, of course, welcome aboard!  We sincerely hope the development of our projects can make the world different, make human society better!
 
 If you'd like to help us, do please feel free to contact, putting up issues or pulling requests.
 
