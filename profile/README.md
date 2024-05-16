@@ -8,7 +8,7 @@ Our philosophy is to create software that are beneficial for people, regardless 
 
 We make our software that we use, and welcome to hear from your feedback.
 
-We iterates our projects with the contributions from you and us, which is a great pleasure to work with people who holds similar ideal and perspective.
+We iterates our projects with the contributions from you and us, which is also a great pleasure to work with people who holds similar ideal and perspective.
 
 And, of course, welcome aboard!  We sincerely hope the development of our projects can make the world different, make human society better!
 
